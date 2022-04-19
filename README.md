@@ -1,6 +1,6 @@
 
 0x11. C - printf
-Foundations - Low-level programming & Algorithm ― Hatching out by Julien Barbier, co-founder at Holberton School. Project to be done in teams of 2 people (your team: Gifti Lellisa, Tolera Degefa)
+Foundations - Low-level programming & Algorithm ― Hatching out by Julien Barbier, co-founder at Holberton School. Project to be done in teams of 2 people (your team: Rebecca Durojaiye, Mario Ojeifo)
 
 Background Context
 Write your own printf function.
